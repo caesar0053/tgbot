@@ -1,5 +1,4 @@
-module gopkg.in/telebot.v4
-
+module github.com/caesar0053/tgbot
 go 1.16
 
 require (
